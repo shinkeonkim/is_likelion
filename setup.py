@@ -43,13 +43,12 @@ if sys.argv[-1] == 'publish':
 
 setup(
     name='is_likelion',
-    version='0.1',
+    version=version,
     license='MIT',
     author="shinkeonkim",
     long_description=read('README.rst'),
     author_email='singun11@gmail.com',
     packages=find_packages(exclude=[]),
-    package_dir={'': 'src'},
     url='https://github.com/shinkeonkim/is_likelion',
     keywords='likelion',
     python_requires=">=3",
