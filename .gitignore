@@ -19,3 +19,4 @@ coverage.*
 !.github
 !.gitignore
 !.pre-commit-config.yaml
+!.travis.yml
