@@ -2,7 +2,6 @@ Is Likelion?
 ===============
 
 .. image:: https://coveralls.io/repos/github/shinkeonkim/is_likelion/badge.svg?branch=main
-:target: https://coveralls.io/github/shinkeonkim/is_likelion?branch=main
 
 
 How to use
