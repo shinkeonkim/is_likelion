@@ -1,4 +1,4 @@
 from .is_likelion import is_likelion
 
 __title__ = "is likelion"
-__version__ = "0.0.2"
+__version__ = "0.0.3"
